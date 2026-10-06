@@ -1,5 +1,26 @@
 {
   "files": [
-    { "name": "free_guide.md", "v": 2 }
+    { "name": "free_guide.md", "v": 1 }
+  ],
+  "gallery": [
+    { "caption": "Layout basics in the View editor", "file": "Screenshot_06.jpg", "v": 1 },
+    { "caption": "Wiring up a button click event", "file": "Screenshot_07.jpg", "v": 1 },
+    { "caption": "Saving data with SharedPreferences", "file": "Screenshot_08.jpg", "v": 1 },
+    { "caption": "Building a ListView with custom rows", "file": "Screenshot_09.jpg", "v": 1 },
+    { "caption": "Firebase login screen, finished", "file": "Screenshot_11.jpg", "v": 1 },
+    { "caption": "Using the Java editor with More Blocks", "file": "Screenshot_12.jpg", "v": 1 },
+    { "caption": "Sample: notes app, home screen", "file": "Screenshot_01.jpg", "v": 1 },
+    { "caption": "Sample: unit converter app", "file": "Screenshot_02.jpg", "v": 1 },
+    { "caption": "Adding Lottie animations", "file": "Screenshot_03.jpg", "v": 1 },
+    { "caption": "Signing and exporting your APK", "file": "Screenshot_04.jpg", "v": 1 },
+    { "caption": "Sample: quiz app with timer", "file": "Screenshot_05.jpg", "v": 1 },
+    { "caption": "Debugging common build errors", "file": "Screenshot_10.jpg", "v": 1 }
+  ],
+  "lessons": [
+    { "id": "l01", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01.md", "v": 1 }
+  ],
+  "media": [
+    { "id": "shot_layout", "type": "image", "title": "Layout basics",
+      "url": "Screenshot_06.jpg", "thumb": "Screenshot_06.jpg", "size": 820000, "v": 1 }
   ]
 }
