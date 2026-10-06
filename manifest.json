@@ -26,6 +26,6 @@
     { "id": "aud_intro", "type": "audio", "title": "Intro audio",
       "url": "sample.mp3", "size": 500000, "v": 1 },
     { "id": "vid_intro", "type": "video", "title": "Intro video",
-      "url": "sample.mp4", "size": 5000000, "v": 1 }
+      "url": "sample.mp4", "size": 5000000, "v": 2 }
   ]
 }
