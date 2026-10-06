@@ -17,13 +17,15 @@
     { "caption": "Debugging common build errors", "file": "Screenshot_10.jpg", "v": 1 }
   ],
   "lessons": [
-    { "id": "l01", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01.md", "v": 4 },
+    { "id": "l01", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01.md", "v": 5 },
     { "id": "l02", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lessons/l02.md", "v": 1 }
   ],
   "media": [
     { "id": "shot_layout", "type": "image", "title": "Layout basics",
       "url": "Screenshot_06.jpg", "thumb": "Screenshot_06.jpg", "size": 820000, "v": 1 },
     { "id": "aud_intro", "type": "audio", "title": "Intro audio",
-      "url": "sample.mp3", "size": 500000, "v": 1 }
+      "url": "sample.mp3", "size": 500000, "v": 1 },
+    { "id": "vid_intro", "type": "video", "title": "Intro video",
+      "url": "sample.mp4", "size": 5000000, "v": 1 }
   ]
 }
