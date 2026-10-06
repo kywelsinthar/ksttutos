@@ -17,11 +17,8 @@
     { "caption": "Debugging common build errors", "file": "Screenshot_10.jpg", "v": 1 }
   ],
   "lessons": [
-    {   "lessons": [
     { "id": "l01", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01.md", "v": 2 },
     { "id": "l02", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lessons/l02.md", "v": 1 }
-  ], 
-    }
   ],
   "media": [
     { "id": "shot_layout", "type": "image", "title": "Layout basics",
