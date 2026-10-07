@@ -26,6 +26,6 @@
     { "id": "aud_intro", "type": "audio", "title": "မေတ္တာပို့",
       "url": "sample.mp3", "size": 500000, "v": 1 },
     { "id": "vid_intro", "type": "video", "title": "Intro video",
-      "url": "https://www.googleapis.com/drive/v3/files/1jpNtKNgST37GHbHJewRX5qqX_3XSIhjY?alt=media&key=AIzaSyAt-eOHBs0XUENXhtydXGlmM657EwYdD0c", "size": 5000000, "v": 2 }
+      "url": "https://www.dropbox.com/scl/fi/qn4spufg7i3fp8n6sq9ex/resumeTest.mp4?rlkey=hwyt96i71cqfhp6b3a3arwqa4&st=f40ekjyf&dl=1", "size": 5000000, "v": 1 }
   ]
 }
