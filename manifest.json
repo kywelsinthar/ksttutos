@@ -16,9 +16,11 @@
     { "caption": "Sample: quiz app with timer", "file": "Screenshot_05.jpg", "v": 1 },
     { "caption": "Debugging common build errors", "file": "Screenshot_10.jpg", "v": 1 }
   ],
-  "lessons": [
-    { "id": "l01", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01.md", "v": 4 },
-    { "id": "l02", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lessons/l02.md", "v": 1 }
+ "lessons": [
+    { "id": "l01", "lang": "mm", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01_mm.md", "v": 1 },
+    { "id": "l01", "lang": "en", "title": "Layout basics", "summary": "How to build a layout in the View editor", "file": "lessons/l01_en.md", "v": 1 },
+    { "id": "l02", "lang": "mm", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lessons/l02_mm.md", "v": 1 },
+    { "id": "l02", "lang": "en", "title": "Button click event", "summary": "What happens when a button is tapped", "file": "lessons/l02_en.md", "v": 1 }
   ],
   "media": [
     { "id": "shot_layout", "type": "image", "title": "ချစ်ရင်ကောင်းမလား?",
