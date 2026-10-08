@@ -1,15 +1,14 @@
-# Layout အခြေခံ
+# Layout basics
 
-English
-View editor ထဲမှာ LinearLayout တစ်ခု ထည့်ပါ။
+Add one LinearLayout in the View editor.
 
-## လုပ်ရမယ့်အဆင့်များ
+## Steps
 
-- Orientation ကို vertical ထားပါ
-- Padding ကို 16 ပေးပါ
-- အသေးစိတ်ကို [Android Developers](https://developer.android.com) မှာ ကြည့်နိုင်ပါတယ်
+- Set the orientation to vertical
+- Set the padding to 16
+- See the details at [Android Developers](https://developer.android.com)
 
-Java နဲ့ ရေးရင် ဒီလို ဖြစ်မယ်။
+If you write it in Java, it looks like this.
 
 ```
 LinearLayout box = new LinearLayout(this);
