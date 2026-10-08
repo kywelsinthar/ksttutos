@@ -3,7 +3,7 @@
   "screens": {
     "onboard": {
       "bg": "https://www.dropbox.com/scl/fi/hgcxu2w945dpkwhndm6s1/tfnt.gif?rlkey=cdfukej36jsz6slwssjlcuiwe&st=20xeq7a7&dl=1",
-      "type": "mp4"
+      "type": "gif"
     }
   }
 }
