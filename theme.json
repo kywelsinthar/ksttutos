@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "screens": {
+    "onboard": { "bg": "https://raw.githubusercontent.com/.../onboard.gif", "type": "gif" },
+    "home":    { "bg": "https://raw.githubusercontent.com/.../home.mp4", "type": "video" }
+  },
+  "icons": {
+    "guide": "https://raw.githubusercontent.com/.../guide.json",
+    "gallery": "https://raw.githubusercontent.com/.../gallery.gif"
+  },
+  "colors": {
+    "blue": "#2F6BFF",
+    "yellow": "#FFC933"
+  }
+}
