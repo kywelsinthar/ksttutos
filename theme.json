@@ -1,8 +1,8 @@
 {
   "version": 1,
   "screens": {
-    "onboard": { "bg": "https://raw.githubusercontent.com/.../onboard.gif", "type": "gif" },
-    "home":    { "bg": "https://github.com/kywelsinthar/ksttutos/blob/main/sample.mp4", "type": "video" }
+    "onboard": { "bg": "https://raw.githubusercontent.com/kywelsinthar/ksttutos/refs/heads/main/onboard.mp4", "type": "video" },
+    "home":    { "bg": "https://raw.githubusercontent.com/kywelsinthar/ksttutos/refs/heads/main/onboard.mp4", "type": "video" }
   },
   "icons": {
     "guide": "https://raw.githubusercontent.com/.../guide.json",
