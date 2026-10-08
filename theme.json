@@ -1,9 +1,15 @@
 {
   "version": 1,
   "screens": {
-    "onboard": {
-      "bg": "https://www.dropbox.com/scl/fi/hgcxu2w945dpkwhndm6s1/tfnt.gif?rlkey=cdfukej36jsz6slwssjlcuiwe&st=20xeq7a7&dl=1",
-      "type": "gif"
-    }
+    "onboard": { "bg": "https://raw.githubusercontent.com/.../onboard.gif", "type": "gif" },
+    "home":    { "bg": "https://raw.githubusercontent.com/.../home.mp4", "type": "video" }
+  },
+  "icons": {
+    "guide": "https://raw.githubusercontent.com/.../guide.json",
+    "gallery": "https://raw.githubusercontent.com/.../gallery.gif"
+  },
+  "colors": {
+    "blue": "#2F6BFF",
+    "yellow": "#FFC933"
   }
 }
