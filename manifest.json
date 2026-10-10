@@ -1,6 +1,8 @@
 {
   "files": [
     { "name": "free_guide.md", "v": 1 }
+    {"name": "about_mm.md", "v": 1},
+    {"name": "about_en.md", "v": 1}
   ],
   "lessons": [
     { "id": "l01", "lang": "mm", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01_mm.md", "v": 1 },
