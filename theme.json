@@ -7,10 +7,7 @@
   "icons": {
   "logo": "https://kywelsinthar.github.io/ksttutos/icon1.gif"
 },
-    "gallery": ""
+    "logo_dark": ""
   },
-  "colors": {
-    "blue": "#2F6BFF",
-    "yellow": "#FFC933"
-  }
+  "colors": { "blue": "#2F6BFF", "yellow": "#FFC933" }
 }
