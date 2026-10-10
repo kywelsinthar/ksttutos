@@ -1,77 +1,79 @@
-Knowledge and Creation
+# 🧠 Knowledge & Creation
 
-Created with a deep appreciation and love for knowledge and intellect.
+**Knowledge • Ideas • Exploration • Intellect**
 
----
-
-General Notice
-
-This software does not belong to or represent any single field of knowledge.
-
-It has been created by broadly learning from and drawing upon the knowledge, experiences, ideas, and perspectives gained through teachers, observations, experiences, and various sources of understanding.
-
-The primary purpose of this creation is to place ideas and intellectual exploration at the forefront.
+> **Created with a deep appreciation and love for knowledge and intellect.**
 
 ---
 
-It May Not Be for Everyone
+## 📖 About
 
-This software may not be suitable for everyone.
+This software **does not belong to or represent any single field of knowledge.**
 
-Some subjects may be difficult to understand for those who do not have a genuine interest in them.
+It has been created by broadly learning from and drawing upon knowledge, experiences, and ideas from teachers, observations, experiences, and various sources of understanding.
 
-Certain concepts may go beyond traditional perspectives, and may therefore feel unusual, uncomfortable, or even unpleasant to some individuals.
+This creation places **ideas and intellectual exploration at the forefront.**
 
 ---
 
-Disclaimer of Responsibility
+## 🧭 Core Philosophy
 
-Therefore, the original creator and associated parties accept no responsibility whatsoever.
+This software has been created from a **love and appreciation for knowledge and intellect.**
+
+- 🧠 **Ideas** are prioritized.
+- 📚 **Knowledge** is valued.
+- 🔎 **Exploration and learning** are encouraged.
+- 💬 **Constructive criticism and discussion** are welcomed.
+- 🤝 Nothing is intended to **harm or disadvantage any individual.**
+
+It contains no **magic or occult practices**.
+
+> **The purpose is not simply to accept ideas, but to understand, question, explore, and discuss them.**
+
+---
+
+## ⚠️ It May Not Be for Everyone
+
+This software **may not be suitable for everyone.**
+
+Some concepts may be difficult to understand for those who do not have an interest in the subject matter.
+
+Certain ideas may **go beyond traditional perspectives** and may therefore feel unusual, uncomfortable, unpleasant, or even disturbing to some individuals.
+
+---
+
+## 🛡️ Disclaimer of Responsibility
+
+> **The original creator and associated parties accept no responsibility whatsoever.**
 
 The original creator and associated parties shall not be held responsible for any consequences arising from the use, interpretation, or personal application of the content provided through this software.
 
 ---
 
-Core Philosophy
+## 📱 Device Compatibility
 
-This creation places ideas and intellectual exploration at the forefront.
+This software **may not be fully compatible with every phone or device.**
 
-It contains no magic, occult practices, or content intended to harm or disadvantage any individual.
+Differences in device models, system versions, and hardware may result in different user experiences.
 
-This software has been created from a love and appreciation for knowledge and intellect.
-
-- Knowledge is valued.
-- Ideas are prioritized.
-- Exploration and learning are encouraged.
-- Constructive criticism and discussion are welcomed.
-- Nothing is intended to cause harm or disadvantage to any individual.
+**We kindly ask for your understanding that it may not always be possible to modify the software to accommodate every individual device.**
 
 ---
 
-Device Compatibility
+## 💬 Learn · Critique · Discuss
 
-This software may not be fully compatible with every phone or device.
+If you share the same passion and interests, **continue learning, provide constructive criticism, and engage in meaningful discussion.**
 
-Differences in device models, operating systems, and technical specifications may result in different user experiences.
+Different perspectives are natural. Through **learning, questioning, and discussion**, we can develop a deeper understanding of ideas.
 
-Therefore, we kindly ask for your understanding that it may not always be possible to modify the software to accommodate every individual device.
+For suggestions or inquiries, please use the link below.
 
----
-
-Learn · Critique · Discuss
-
-If you share the same passion and interests, continue learning, provide constructive criticism, and engage in meaningful discussion.
-
-Different perspectives are natural, and through learning, questioning, and discussion, we can develop a deeper understanding of ideas.
-
-If you have suggestions or would like to get in touch, please use the link below.
-
-"Send Suggestions or Contact Us" (https://example.com)
+[🌐 Suggestions / Contact](https://example.com)
 
 ---
 
-With Respect
+## 🤝 With Respect
 
-With everlasting respect for every individual
+**With everlasting respect for every individual.**
 
-Admins Team
+**Admins Team**
