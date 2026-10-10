@@ -1,13 +1,13 @@
 {
   "version": 1,
   "screens": {
-    "onboard": { "bg": "https://raw.githubusercontent.com/kywelsinthar/ksttutos/refs/heads/main/onboard.mp4", "type": "video" },
-    "home":    { "bg": "https://raw.githubusercontent.com/kywelsinthar/ksttutos/refs/heads/main/onboard.mp4", "type": "video" }
+    "onboard": { "bg": "https://kywelsinthar.github.io/ksttutos/onboard.mp4", "type": "video" },
+    "home":    { "bg": "https://kywelsinthar.github.io/ksttutos/home.mp4", "type": "video" }
   },
   "icons": {
-  "icon1": "https://raw.githubusercontent.com/kywelsinthar/ksttutos/refs/heads/main/icon1.gif"
+  "icon1": "https://kywelsinthar.github.io/ksttutos/icon1.gif"
 },
-    "gallery": "https://raw.githubusercontent.com/.../gallery.gif"
+    "gallery": ""
   },
   "colors": {
     "blue": "#2F6BFF",
