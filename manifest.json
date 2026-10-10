@@ -1,6 +1,6 @@
 {
   "files": [
-    { "name": "free_guide.md", "v": 1 }
+    {"name": "free_guide.md", "v": 1 },
     {"name": "about_mm.md", "v": 1},
     {"name": "about_en.md", "v": 1}
   ],
